@@ -2,7 +2,7 @@
 
 <h3>
 
-Aplicativo Desenvolvido na plataforma Visual Studio.Segue codigo fonte.
+Aplicativo Desenvolvido na plataforma Visual Studio.Segue código fonte.
 
 </h3>
 
