@@ -6,7 +6,7 @@ Aplicativo Desenvolvido na plataforma Visual Studio.Segue codigo fonte.
 
 </h3>
 
-<p align="center">
+<p align="right">
     <img src="https://github.com/lucascalu/ParOuImpar-Xamarin-App/blob/master/Screenshot_20200402-114519.png"height="400"/>
 
 
@@ -14,7 +14,7 @@ Aplicativo Desenvolvido na plataforma Visual Studio.Segue codigo fonte.
     <img src="https://github.com/lucascalu/ParOuImpar-Xamarin-App/blob/master/Screenshot_20200402-114557.png"height="400"/>
 
 
-<p align="center">
+<p align="left">
     <img src="https://github.com/lucascalu/ParOuImpar-Xamarin-App/blob/master/Screenshot_20200402-114638.png"height="400"/>
 </p>
 
